@@ -1,0 +1,11 @@
+{
+  "name": "Bug 1074634",
+  "version": "0.0.1",
+  "description": "",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": []
+}
